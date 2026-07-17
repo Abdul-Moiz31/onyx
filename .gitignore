@@ -31,7 +31,6 @@ backend/onyx/evals/one_off/*.json
 *.csv
 
 # secret files
-.env
 jira_test_env
 settings.json
 
@@ -67,3 +66,7 @@ plans/
 .claude/scheduled_tasks.lock
 .claude/worktrees/
 !.claude/settings.json
+config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
